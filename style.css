@@ -1,0 +1,148 @@
+body{
+    font-size: 12pt;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+ul{
+    margin: 0;
+}
+.bgc{
+    background-color: #14274e;
+}
+.avatar {
+    width: 200px;
+    padding: 30px;
+    padding-right: 20px;
+}
+.d-inline{
+    display: inline-block;
+}
+.d-block{
+    display: block;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+.cv-body{
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name h1 {
+    margin-bottom: 150px;
+}
+.none-list{
+    list-style-type: none;
+}
+ul li span i {
+    width: 30px;
+}
+ul.contact li {
+    line-height: 30px;
+}
+ul.contact{
+    margin-top: 85px;
+    margin-right: 30px;
+}
+.pull-right{
+    float: right;
+}
+.section-list {
+    color: #14274e;
+    border: 1px solid #14274e;
+}
+.title-section span i {
+    font-size: 30px;
+}
+.title-section {
+    background-color: #b8d1e0;
+}
+.left-section {
+    width: 250px;
+    margin-left: 10px;
+}
+.pl-30{
+    padding-left: 30px;
+}
+.pl-10{
+    padding-left: 10px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mtb20{
+    margin: 20px 0;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.mt-25{
+    margin-top: 25px;
+}
+.body-section {
+    /*padding: 0 30px;*/
+}
+.content-section{
+    margin: 20px 30px;
+}
+.border-mrl20 {
+    border-left: 8px solid #b8d1e0;
+}
+ul.school {
+    line-height: 25px;
+    width: 500px;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.experience{
+    position: relative;
+    top: -30px;
+}
+.width25{
+    max-width: 25%;
+}
+.width45{
+    width: 45%;
+}
+.width30{
+    max-width: 30%;
+}
+.width70{
+    max-width: 70%;
+}
+.another-skill{
+}
+#myProgress {
+    width: 100%;
+    background-color: grey;
+}
+
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+}
+.process{
+    width: 100%;
+    background-color: #9ba4b4;
+    border-radius: 16px;
+}
+.bar{
+    width: 20%;
+    height: 16px;
+    background-color: #14274e;
+    border-radius: 16px;
+}
+.section-skill .content-section ul:first-child{
+    padding-left: 20px;
+}
+span.skill {
+    font-size: 20px;
+    display: block;
+    width: 70px;
+}
+.english-skill {
+    width: 100%;
+}
